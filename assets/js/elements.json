@@ -60,6 +60,16 @@
     "projects": [
         {
             "type":        "blog_post",
+            "date":        "2015-01-01",
+            "dateFormat":  "MM YYYY",
+            "title":       "Energy Archipelago",
+            "width":        250,
+            "id":           8,
+            "content":     "<a href=\"https://energyarchipelago.com\">Energy Archipelago</a> is a map viewer of community owned renewable energy projects across the worlds. <ul class=\"tags\" id=\"proj9\"></ul>",
+            "tags":        ["leafletjs", "django", "backbone", "requirejs"]
+        },
+        {
+            "type":        "blog_post",
             "date":        "2013-07-01",
             "dateFormat":  "MM YYYY",
             "title":       "Wordpress Mapbox",
