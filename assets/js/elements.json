@@ -1,0 +1,141 @@
+{
+    "experience": [
+        {
+            "type":        "blog_post",
+            "date":        "2011-07-18",
+            "dateFormat":  "MM YYYY",
+            "title":       "<a href=\"http://www.edina.ac.uk\" target=\"blank\">EDINA</a>",
+            "width":        250,
+            "content":     "Software Engineer at EDINA, University of Edinburgh."
+        },
+        {
+            "type":        "blog_post",
+            "date":        "2011-01-01",
+            "dateFormat":  "MM YYYY",
+            "title":       "<a href=\"http://www.research-innovation.ed.ac.uk/\" target=\"blank\">ERI</a>",
+            "width":        250,
+            "content":     "GIS Consultant at Edinburgh Research and Innovation, University of Edinburgh."
+        },
+        {
+            "type":        "blog_post",
+            "date":        "2009-03-01",
+            "dateFormat":  "MM YYYY",
+            "title":       "<a href=\"http://www.katagramma.gr/\" target=\"blank\">Katagramma</a>",
+            "width":        250,
+            "content":     "Web developer / GIS Technician at Katagramma."
+        },
+        {
+            "type":        "blog_post",
+            "date":        "2008-02-14",
+            "dateFormat":  "MM YYYY",
+            "title":       "Greek army",
+            "width":        250,
+            "content":     "Compulsory military service within the Greek army."
+        },
+        {
+            "type":        "blog_post",
+            "date":        "2007-01-01",
+            "dateFormat":  "MM YYYY",
+            "title":       "<a href=\"http://www.katagramma.gr/\" target=\"blank\">Katagramma</a>",
+            "width":        250,
+            "content":     "Front-End web developer at Katagramma. Teacher in the prefecture of Korinthias, Greece demonstrating and promoting broadband services and the advantages of fast Internet."
+        },
+        {
+            "type":        "blog_post",
+            "date":        "2009-09, 2010-08",
+            "dateFormat":  "MM YYYY, MM YYYY",
+            "title":       "MSc in GIS",
+            "width":        250,
+            "content":     "Master of Science in Geographical Information Systems, University of Edinburgh."
+        },
+        {
+            "type":        "blog_post",
+            "date":        "2001-10-01 2007-02-01",
+            "dateFormat":  "M/YY - M/YY",
+            "title":       "Applied Maths & Pysics",
+            "width":        250,
+            "content":     "BSc in Applied Mathematics and Physics, National Technical University of Athens. (5 year degree) Grade: 7.65/10"
+        }
+    ],
+    "projects": [
+        {
+            "type":        "blog_post",
+            "date":        "2013-07-01",
+            "dateFormat":  "MM YYYY",
+            "title":       "Wordpress Mapbox",
+            "width":        250,
+            "id":           8,
+            "content":     "<a href=\"https://github.com/panterz/wordpress-mapbox\">Wordpress Mapbox</a> is a wordpress plugin for CRUD mapbox layers and visualizing them in 3 ways: checkboxes/radios, timeline, opacity control.<ul class=\"tags\" id=\"proj8\"></ul>",
+            "tags":        ["mapboxjs", "php", "backbone"]
+        },
+        {
+            "type":        "blog_post",
+            "date":        "2013-07-01",
+            "dateFormat":  "MM YYYY",
+            "title":       "COBWEB",
+            "width":        250,
+            "content":     "<a href=\"http://cobwebproject.eu/\" target=\"blank\">COBWEB</a> app is a hybrid mobile application for collecting environmental data within Biosphere Reserves.<ul class=\"tags\" id=\"proj7\"></ul>",
+            "id":          7,
+            "tags":        ["jQuery Mobile", "Cordova", "OpenLayers", "MBTiles"]
+        },
+        {
+            "type":        "blog_post",
+            "date":        "2013-02-01",
+            "dateFormat":  "MM YYYY",
+            "title":       "PCAPI",
+            "width":        250,
+            "id":           6,
+            "content":     "Personal Cloud API is a web application for synchronizing personal data with different cloud storage providers. Currently it is working with Dropbox and is used on Fieldtrip GB for synchronizing forms and data between a mobile app called FieldtripGB and a web app called FieldtripGB Author. <ul class=\"tags\" id=\"proj6\"></ul>",
+            "tags":         ["Python", "bottle"]
+        },
+        {
+            "type":        "blog_post",
+            "date":        "2012-09-01",
+            "dateFormat":  "MM YYYY",
+            "title":       "FieldTripGB Author",
+            "width":        250,
+            "id":           5,
+            "content":     "<a href=\"http://fieldtripgb.edina.ac.uk/authoring/\" target=\"blank\">FieldTripGB Author</a> is a web application for the generation of forms for many kinds of mobile data collection projects. The application uses the dropbox SDK for synchonizing the result with the personal dropbox account of the user.<ul class=\"tags\" id=\"proj5\"></ul>",
+            "tags":         ["jQuery", "Twitter bootstrap", "OpenLayers"]
+        },
+        {
+            "type":        "blog_post",
+            "date":        "2012-04-01",
+            "dateFormat":  "MM YYYY",
+            "title":       "Cartogrammar",
+            "width":        250,
+            "id":           4,
+            "content":     "<a href=\"http://cartogrammar.edina.ac.uk/\" target=\"blank\">Cartogrammar</a> is a web service with which you can create a cartogram by uploading a shapefile. An API is also provided for developers and a widget for simple users that want to embed the cartogram generator at their website.<ul class=\"tags\" id=\"proj4\"></ul>",
+            "tags":         ["PostgreSQL", "Python", "Django", "Celery", "Java"]
+        },
+        {
+            "type":        "blog_post",
+            "date":        "2011-11-01",
+            "dateFormat":  "MM YYYY",
+            "title":       "LocateIt",
+            "width":        250,
+            "id":           3,
+            "content":     "<a href=\"http://locateit.gr/\" target=\"blank\">LocateIt</a> is a web service that was created for touristic purposes. It is actually a web map service with which you can map Points of Interest (POI), categorize them, evaluate them, comment them and connect them with social media, images, videos and panoramic photos. It is also a mapping calendar. You can map events. So the users can see where the event takes place. It is a nice idea funded by the EU. It works on tablets and mobile devices as well and it also has a CMS on the backend where you can handle all the data.<ul class=\"tags\" id=\"proj3\"></ul>",
+            "tags":        ["OpenLayers", "jQuery", "jQuery Mobile", "PHP", "PostGIS"]
+        },
+        {
+            "type":        "blog_post",
+            "date":        "2011-09-01",
+            "dateFormat":  "MM YYYY",
+            "title":       "Thematic Mapper",
+            "width":        250,
+            "id":           2,
+            "content":     "<a href=\"http://thematic.edina.ac.uk/thematic/map\" target=\"blank\">Thematic Mapper</a> is a web service for creating thematic maps on the web. It is connected to UKBorders and OpenBoundaries datasets. You can upload a csv, which you can connect it to the datasets that I described before and you can create thematic maps with the value you will select. You can customize your maps by chancing colours.<ul class=\"tags\" id=\"proj2\"></ul>",
+            "tags":         ["OpenLayers", "jQuery", "Mapserver", "GeoTools"]
+        },
+        {
+            "type":        "blog_post",
+            "date":        "2011-09-01",
+            "dateFormat":  "MM YYYY",
+            "title":       "Scottish Gazetteer",
+            "width":        250,
+            "id":           1,
+            "content":     "In this role I am responsible for all stages of development of the official Placename Gazetteer for Scotland, according to INSPIRE requirements."
+        }
+    ]
+}
