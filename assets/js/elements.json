@@ -64,8 +64,8 @@
             "dateFormat":  "MM YYYY",
             "title":       "Energy Archipelago",
             "width":        250,
-            "id":           8,
-            "content":     "<a href=\"https://energyarchipelago.com\">Energy Archipelago</a> is a map viewer of community owned renewable energy projects across the worlds. <ul class=\"tags\" id=\"proj9\"></ul>",
+            "id":           10,
+            "content":     "<a href=\"https://energyarchipelago.com\">Energy Archipelago</a> is a map viewer of community owned renewable energy projects across the worlds. <ul class=\"tags\" id=\"proj10\"></ul>",
             "tags":        ["leafletjs", "django", "backbone", "requirejs"]
         },
         {
@@ -74,8 +74,8 @@
             "dateFormat":  "MM YYYY",
             "title":       "Wordpress Mapbox",
             "width":        250,
-            "id":           8,
-            "content":     "<a href=\"https://github.com/panterz/wordpress-mapbox\">Wordpress Mapbox</a> is a wordpress plugin for CRUD mapbox layers and visualizing them in 3 ways: checkboxes/radios, timeline, opacity control.<ul class=\"tags\" id=\"proj8\"></ul>",
+            "id":           9,
+            "content":     "<a href=\"https://github.com/panterz/wordpress-mapbox\">Wordpress Mapbox</a> is a wordpress plugin for CRUD mapbox layers and visualizing them in 3 ways: checkboxes/radios, timeline, opacity control.<ul class=\"tags\" id=\"proj9\"></ul>",
             "tags":        ["mapboxjs", "php", "backbone"]
         },
         {
@@ -84,8 +84,8 @@
             "dateFormat":  "MM YYYY",
             "title":       "Fieldtrip Open",
             "width":        250,
-            "content":     "<a href=\"https://github.com/edina/fieldtrip-open\" target=\"blank\">Fieldtrip Open</a> i s a modular plug-in framework to enable developers to write their own extensions and re-use plugins written by others. This framework has been used in the creation of other production strength apps e.g. the FieldtripGB, FieldtripOSM. The framework is based on Cordova framework and can be compiled to Android and iOS and potentially all other platforms targeted by Cordova. Plugins have already been written for capturing GPS tracks, geocoding, caching off-line maps, creating Geo-Fences, overlaying layers in MBTiles and KML Format, extending the records with sensor data, making decision tree questionnaires and syncing data on the cloud. <ul class=\"tags\" id=\"proj7\"></ul>",
-            "id":          7,
+            "content":     "<a href=\"https://github.com/edina/fieldtrip-open\" target=\"blank\">Fieldtrip Open</a> i s a modular plug-in framework to enable developers to write their own extensions and re-use plugins written by others. This framework has been used in the creation of other production strength apps e.g. the FieldtripGB, FieldtripOSM. The framework is based on Cordova framework and can be compiled to Android and iOS and potentially all other platforms targeted by Cordova. Plugins have already been written for capturing GPS tracks, geocoding, caching off-line maps, creating Geo-Fences, overlaying layers in MBTiles and KML Format, extending the records with sensor data, making decision tree questionnaires and syncing data on the cloud. <ul class=\"tags\" id=\"proj8\"></ul>",
+            "id":          8,
             "tags":        ["jQuery Mobile", "Cordova", "OpenLayers", "MBTiles"]
         },
         {
@@ -94,8 +94,8 @@
             "dateFormat":  "MM YYYY",
             "title":       "PCAPI",
             "width":        250,
-            "id":           6,
-            "content":     "Personal Cloud API is a web application for synchronizing personal data with different cloud storage providers. Currently it is working with Dropbox and is used on Fieldtrip GB for synchronizing forms and data between a mobile app called FieldtripGB and a web app called FieldtripGB Author. <ul class=\"tags\" id=\"proj6\"></ul>",
+            "id":           7,
+            "content":     "Personal Cloud API is a web application for synchronizing personal data with different cloud storage providers. Currently it is working with Dropbox and is used on Fieldtrip GB for synchronizing forms and data between a mobile app called FieldtripGB and a web app called FieldtripGB Author. <ul class=\"tags\" id=\"proj7\"></ul>",
             "tags":         ["Python", "bottle"]
         },
         {
@@ -104,9 +104,19 @@
             "dateFormat":  "MM YYYY",
             "title":       "FieldTripGB Author",
             "width":        250,
-            "id":           5,
-            "content":     "<a href=\"http://fieldtripgb.edina.ac.uk/authoring/\" target=\"blank\">FieldTripGB Author</a> is a web application for the generation of forms for many kinds of mobile data collection projects. The application uses the dropbox SDK for synchonizing the result with the personal dropbox account of the user.<ul class=\"tags\" id=\"proj5\"></ul>",
+            "id":           6,
+            "content":     "<a href=\"http://fieldtripgb.edina.ac.uk/authoring/\" target=\"blank\">FieldTripGB Author</a> is a web application for the generation of forms for many kinds of mobile data collection projects. The application uses the dropbox SDK for synchonizing the result with the personal dropbox account of the user.<ul class=\"tags\" id=\"proj6\"></ul>",
             "tags":         ["jQuery", "Twitter bootstrap", "OpenLayers"]
+        },
+        {
+            "type":        "blog_post",
+            "date":        "2012-05-01",
+            "dateFormat":  "MM YYYY",
+            "title":       "CENSUS UK DATA SERVICE",
+            "width":        250,
+            "id":           5,
+            "content":     "<a href=\"http://census.edina.ac.uk/\" target=\"blank\">UK CENSUS</a> is a web service for downloading open data such as boundaries and postcode data of the UK. <ul class=\"tags\" id=\"proj5\"></ul>",
+            "tags":         ["OpenLayers", "GEOSERVER", "Mapserver", "POSTGIS", "Twitter Bootstrap"]
         },
         {
             "type":        "blog_post",
