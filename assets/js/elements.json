@@ -42,7 +42,7 @@
         },
         {
             "type":        "blog_post",
-            "date":        "2009-09, 2010-08",
+            "date":        "2009-09-01 2010-08-12",
             "dateFormat":  "MM YYYY, MM YYYY",
             "title":       "MSc in GIS",
             "width":        250,
@@ -58,6 +58,16 @@
         }
     ],
     "projects": [
+        {
+            "type":        "blog_post",
+            "date":        "2015-08-01",
+            "dateFormat":  "MM YYYY",
+            "title":       "Survey Designer",
+            "width":        250,
+            "id":           11,
+            "content":     "<a href=\"https://github.com/edina/survey-designer\">Survey Designer</a> is a single page app for constructing your own forms that can be loaded on FTOpen apps through PCAPI. <ul class=\"tags\" id=\"proj11\"></ul>",
+            "tags":        ["backbone", "nodejs", "npm", "jspm", "jquery", "es6"]
+        },
         {
             "type":        "blog_post",
             "date":        "2015-01-01",
