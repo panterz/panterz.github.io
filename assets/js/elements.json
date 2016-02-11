@@ -43,7 +43,7 @@
         {
             "type":        "blog_post",
             "date":        "2009-09-01 2010-08-12",
-            "dateFormat":  "MM YYYY, MM YYYY",
+            "dateFormat":  "MM/YY-MM/YY",
             "title":       "MSc in GIS",
             "width":        250,
             "content":     "Master of Science in Geographical Information Systems, University of Edinburgh."
