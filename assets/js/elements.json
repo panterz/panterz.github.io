@@ -75,7 +75,7 @@
             "title":       "Energy Archipelago",
             "width":        250,
             "id":           10,
-            "content":     "<a href=\"https://energyarchipelago.com\">Energy Archipelago</a> is a map viewer of community owned renewable energy projects across the worlds. <ul class=\"tags\" id=\"proj10\"></ul>",
+            "content":     "<a href=\"https://energyarchipelago.com\">Energy Archipelago</a> is a map viewer of community owned renewable energy projects across the world. <ul class=\"tags\" id=\"proj10\"></ul>",
             "tags":        ["leafletjs", "django", "backbone", "requirejs"]
         },
         {
@@ -94,7 +94,7 @@
             "dateFormat":  "MM YYYY",
             "title":       "Fieldtrip Open",
             "width":        250,
-            "content":     "<a href=\"https://github.com/edina/fieldtrip-open\" target=\"blank\">Fieldtrip Open</a> i s a modular plug-in framework to enable developers to write their own extensions and re-use plugins written by others. This framework has been used in the creation of other production strength apps e.g. the <a href=\"http://fieldtripgb.blogs.edina.ac.uk/\">FieldtripGB</a>, FieldtripOSM. The framework is based on Cordova framework and can be compiled to Android and iOS and potentially all other platforms targeted by Cordova. Plugins have already been written for capturing GPS tracks, geocoding, caching off-line maps, creating Geo-Fences, overlaying layers in MBTiles and KML Format, extending the records with sensor data, making decision tree questionnaires and syncing data on the cloud. <ul class=\"tags\" id=\"proj8\"></ul>",
+            "content":     "<a href=\"https://github.com/edina/fieldtrip-open\" target=\"blank\">Fieldtrip Open</a> Fieldtrip-Open is a platform for developing mobile mapping and data collection apps. This framework has been used in the creation of other production strength apps e.g. the <a href=\"http://fieldtripgb.blogs.edina.ac.uk/\">FieldtripGB</a>, FieldtripOSM. The framework is based on Cordova framework and can be compiled to Android and iOS and potentially all other platforms targeted by Cordova. Plugins have already been written for capturing GPS tracks, geocoding, caching off-line maps, creating Geo-Fences, overlaying layers in MBTiles and KML Format, extending the records with sensor data, making decision tree questionnaires and syncing data on the cloud. <ul class=\"tags\" id=\"proj8\"></ul>",
             "id":          8,
             "tags":        ["jQuery Mobile", "Cordova", "OpenLayers", "MBTiles"]
         },
