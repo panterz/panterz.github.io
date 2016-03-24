@@ -94,7 +94,7 @@
             "dateFormat":  "MM YYYY",
             "title":       "Fieldtrip Open",
             "width":        250,
-            "content":     "<a href=\"https://github.com/edina/fieldtrip-open\" target=\"blank\">Fieldtrip Open</a> i s a modular plug-in framework to enable developers to write their own extensions and re-use plugins written by others. This framework has been used in the creation of other production strength apps e.g. the FieldtripGB, FieldtripOSM. The framework is based on Cordova framework and can be compiled to Android and iOS and potentially all other platforms targeted by Cordova. Plugins have already been written for capturing GPS tracks, geocoding, caching off-line maps, creating Geo-Fences, overlaying layers in MBTiles and KML Format, extending the records with sensor data, making decision tree questionnaires and syncing data on the cloud. <ul class=\"tags\" id=\"proj8\"></ul>",
+            "content":     "<a href=\"https://github.com/edina/fieldtrip-open\" target=\"blank\">Fieldtrip Open</a> i s a modular plug-in framework to enable developers to write their own extensions and re-use plugins written by others. This framework has been used in the creation of other production strength apps e.g. the <a href=\"http://fieldtripgb.blogs.edina.ac.uk/\">FieldtripGB</a>, FieldtripOSM. The framework is based on Cordova framework and can be compiled to Android and iOS and potentially all other platforms targeted by Cordova. Plugins have already been written for capturing GPS tracks, geocoding, caching off-line maps, creating Geo-Fences, overlaying layers in MBTiles and KML Format, extending the records with sensor data, making decision tree questionnaires and syncing data on the cloud. <ul class=\"tags\" id=\"proj8\"></ul>",
             "id":          8,
             "tags":        ["jQuery Mobile", "Cordova", "OpenLayers", "MBTiles"]
         },
@@ -105,7 +105,7 @@
             "title":       "PCAPI",
             "width":        250,
             "id":           7,
-            "content":     "Personal Cloud API is a web application for synchronizing personal data with different cloud storage providers. Currently it is working with Dropbox and is used on Fieldtrip GB for synchronizing forms and data between a mobile app called FieldtripGB and a web app called FieldtripGB Author. <ul class=\"tags\" id=\"proj7\"></ul>",
+            "content":     "<a href=\"https://github.com/edina/pcapi\">Personal Cloud API>/a> is a web application for synchronizing personal data with different cloud storage providers. Currently it is working with Dropbox and is used on Fieldtrip GB for synchronizing forms and data between a mobile app called FieldtripGB and a web app called FieldtripGB Author. <ul class=\"tags\" id=\"proj7\"></ul>",
             "tags":         ["Python", "bottle"]
         },
         {
